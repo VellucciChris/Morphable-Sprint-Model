@@ -5,7 +5,7 @@ Multi-Component Reconstruction was used to visualize the 3D whole-body movement 
 
 
 Entire data set visualized: 
-![Untitled design](https://github.com/user-attachments/assets/a7e8e9eb-384e-4a1c-8345-05b4011d3304)
+![Untitled design](https://github.com/user-attachments/assets/a7e8e9eb-384e-4a1c-8345-05b4011d3304, width = 50%)
 
 Frontal Plane Multi-Component Reconstruction: 
 The red avatar represents the technique associated with the fastest sprint velocity, while blue represents the slowest. 
