@@ -1,4 +1,4 @@
-
+# Morphable Sprint Model
 This repository contains the code used to generate a morphable model of the sprinter. A PCA model was used to model the relationship between Sprint Velocity and Neuromuscular Coordination.  
 
 Multi-Component Reconstruction was used to visualize the 3D whole-body movement patterns associated with faster sprinting velocities during the maximum velocity phase of sprinting. This was constructed by using the principal component loading vectors of 40 participants x 19232 data points to identify only the differences in technique that are associated with improved performance. This means that the avatars presented below are not actual humans, but rather outputs of our machine learning model. 
@@ -17,5 +17,8 @@ Sagital and Transverse Plane Multi-Component Reconstruction:
 
 <img src = "https://github.com/user-attachments/assets/b627bcd3-6138-4974-8238-dd8c02065dd2" width = "50%" alt = "Untitled design">
 
+# Citation: 
+This data and code is associate diwth the following Manuscript
+Vellucci CL, Beaudette SM. A need for speed: Objectively identifying full-body kinematic and neuromuscular features associated with faster sprint velocities. Front Sports ACt Living. 3:4:1094163. doi: 10.3389/fspor.2022.1094163.
 
 
